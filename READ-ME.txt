@@ -1,11 +1,26 @@
-  =>  Template Name    : KidKinder - Kindergarten Website Template
+"#Capstone-ProjectKelompok-2"
 
-  =>  Template Link    : https://htmlcodex.com/kindergarten-website-template
+Team 2
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+Andri Yano
+Bagas Kurniawan
+Fika Fadlul Maulaya
+Hibatullah Naufal Ramadhan
+Yoga Adi Wicaksono
 
-  =>  Template Author  : HTML Codex
+Smart Reviewer
 
-  =>  Author Website   : https://htmlcodex.com
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+Smart Reviewer adalah sebuah aplikasi canggih yang dirancang untuk menganalisis sentimen dan umpan balik pengguna. Aplikasi ini menggunakan teknologi analisis sentimen untuk memahami perasaan dan opini yang terkandung dalam ulasan atau feedback yang diberikan. Selain itu, Smart Reviewer juga menampilkan hasil analisis tersebut dalam bentuk Word Cloud yang menarik, memungkinkan pengguna untuk dengan cepat mengidentifikasi kata-kata dan frasa yang paling sering muncul dalam ulasan, sehingga memudahkan pengambilan keputusan dan strategi perbaikan.
+
+Fitur
+
+1.Melihat Foto Pengajar: Fitur ini memungkinkan pengguna untuk melihat foto pengajar yang terkait dengan ulasan atau evaluasi yang mereka lihat. 
+2.Keahlian Pengajar: Aplikasi ini memberikan informasi tentang keahlian atau bidang spesialisasi dari setiap pengajar.
+3.Feedback untuk Pengajar: Pengguna dapat melihat feedback atau ulasan yang diberikan oleh mahasiswa sebelumnya untuk pengajar tertentu.
+4.Memberikan Feedback: Fitur ini memungkinkan pengguna untuk memberikan feedback atau ulasan mereka sendiri tentang pengajar setelah mengikuti kelas atau kursus.
+
+Dataset: https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis/code
+
+Algoritma Deep Learning 
+- RNN
